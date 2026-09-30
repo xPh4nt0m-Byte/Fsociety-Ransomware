@@ -1,0 +1,69 @@
+MIT License
+
+Copyright (c) 2026 FSOCIETY Ransomware Simulation
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+ADDITIONAL DISCLAIMER — EDUCATIONAL USE ONLY
+================================================================================
+
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL, RESEARCH, AND FILM PRODUCTION
+PURPOSES ONLY.
+
+The author(s) of this software explicitly disclaim any responsibility for
+any misuse, damage, or illegal activity conducted with this software. This
+project is a SIMULATION designed to demonstrate how ransomware works in a
+controlled environment.
+
+BY USING THIS SOFTWARE, YOU AGREE TO THE FOLLOWING:
+
+  1. You will use this software ONLY in isolated environments, such as
+     virtual machines (VMs) or sandboxed systems that you own or have
+     explicit written permission to test.
+
+  2. You will use this software ONLY for educational, research, or
+     authorized film/video production purposes.
+
+  3. You will NOT deploy, distribute, or execute this software against any
+     system, network, or device that you do not own or have explicit
+     authorization to test.
+
+  4. You understand that running this software on a real machine WILL
+     encrypt files and may cause irreversible data loss.
+
+  5. You take full legal and ethical responsibility for any consequences
+     resulting from the use or misuse of this software.
+
+  6. You acknowledge that ransomware is a serious cybercrime under the laws
+     of most countries, including but not limited to the Computer Fraud and
+     Abuse Act (CFAA) in the United States and similar legislation
+     worldwide.
+
+================================================================================
+WARNING
+================================================================================
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE AUTHOR(S)
+ARE NOT LIABLE FOR ANY DAMAGES, DATA LOSS, LEGAL CONSEQUENCES, OR OTHER
+HARM RESULTING FROM THE USE OF THIS SOFTWARE.
+
+IF YOU DO NOT AGREE WITH THESE TERMS, DO NOT USE THIS SOFTWARE.
+
+================================================================================
