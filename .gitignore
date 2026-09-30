@@ -1,0 +1,204 @@
+# ============================================
+# FSOCIETY RANSOMWARE SIMULATION
+# .gitignore
+# ============================================
+
+# ==================== Python ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==================== Virtual Environments ====================
+venv/
+ENV/
+env/
+.venv/
+.env
+virtualenv/
+.conda/
+pip-wheel-metadata/
+
+# ==================== PyInstaller ====================
+# Build artifacts
+*.spec
+build/
+dist/
+
+# ==================== IDE / Editor ====================
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+.vim/
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ==================== OS Files ====================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ==================== Project Specific ====================
+# ⚠️ Sensitive project files — NEVER push to Git
+
+# Encryption key (extremely dangerous if leaked!)
+fsociety_key.txt
+*.fsociety_key
+fsociety_key*.txt
+
+# Encrypted files (from test runs)
+*.fsociety
+
+# Logo (uncomment if you don't want to push it)
+# fsociety_logo.png
+
+# Temporary files from payload
+*.tmp
+*.temp
+temp_*.py
+
+# Backups
+*.bak
+*.backup
+*.old
+*.orig
+
+# ==================== Logs ====================
+*.log
+logs/
+*.log.*
+
+# ==================== Testing ====================
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# ==================== Secrets / Config ====================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+config.local.*
+
+# ==================== Jupyter ====================
+.ipynb_checkpoints/
+*.ipynb
+
+# ==================== MyPy / Type Checkers ====================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# ==================== Ruff / Linters ====================
+.ruff_cache/
+.pylint.d/
+
+# ==================== Documentation Builds ====================
+docs/_build/
+site/
+
+# ==================== Archive Files ====================
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# ==================== Recording / Film Assets ====================
+# (If recording a film — don't push raw footage)
+recordings/
+footage/
+screenshots/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+
+# ==================== Keep These Files ====================
+# These files will be tracked by Git (exceptions)
+!README.md
+!requirements.txt
+!decrypt.py
+!ransomware.py
+!LICENSE
+!fsociety_logo.png
